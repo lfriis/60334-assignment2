@@ -1,12 +1,9 @@
 # 60334-assignment2
 
-Section A:
+Section A: Basic currency converter
 
+Section B: Submission form with re-direction
 
-Section B:
+Section C: Multiplication/Division calculator
 
-
-Section C:
-
-
-Section D:
+Section D: Image posting with JavaScript
